@@ -1,7 +1,7 @@
 {
-    "name": "PROFESSOR-BOT",
-    "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/e6d627c43c0a8d6c15bac.jpg",
+    "name": "MutyalaHarshith",
+    "description": "It is Multi Purpose BoT For Telegram Created By Mutyala Harshith..✮✮",
+    "logo": "https://telegra.ph/file/236794ce4bb2213eaae1e.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/MutyalaHarshith",
+    "repository": "https://github.com/MutyalaHarshith/MegaHero",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -62,7 +62,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "{file_name}\n\n🔘 size - {file_size}\n\n╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗\n💥 𝙅𝙊𝙄𝙉 :- @Mr_Movies_Main\n💥 𝙅𝙊𝙄𝙉 :- @mknmovies\n╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ ",
+            "value": "{file_name}\n\n🔘 size - {file_size}\n\n╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗\n💥 𝙅𝙊𝙄𝙉 :- @MutyalaHarshith\n💥 𝙅𝙊𝙄𝙉 :- @MhGchat\n╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ ",
             "required": false
         },
         "DATABASE_URI": {
